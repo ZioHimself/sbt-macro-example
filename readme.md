@@ -8,4 +8,4 @@ sbt app/run
 
 To learn more about writing macro annotations:
 
-http://scalameta.org/tutorial/#Part4-Macroannotations
+http://scalameta.org/tutorial/#Macroannotations
